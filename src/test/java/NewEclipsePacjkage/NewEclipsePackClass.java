@@ -9,8 +9,7 @@ public class NewEclipsePackClass {
 		System.out.println("New eclipse method --- steps");
 		System.out.println("New eclipse method --- steps");
 
-		
-		
+	
 		
 
 		
